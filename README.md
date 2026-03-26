@@ -8,7 +8,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kevallathiya-74&color=0e75b6&style=flat&label=Profile+Views)](https://github.com/kevallathiya-74)
 [![GitHub followers](https://img.shields.io/github/followers/kevallathiya-74?label=Followers&style=social)](https://github.com/kevallathiya-74)
-[![GitHub stars](https://img.shields.io/github/stars/kevallathiya-74?label=Total+Stars&style=social)](https://github.com/kevallathiya-74)
 
 </div>
 
