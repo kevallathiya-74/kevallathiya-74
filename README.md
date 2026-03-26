@@ -1,13 +1,14 @@
 <div align="center">
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+There%2C+I'm+Keval+%F0%9F%91%8B;Full-Stack+Developer;Backend-First+Mindset;Building+Scalable+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Keval+%F0%9F%91%8B;Full-Stack+Developer;Backend-First+Mindset;Building+Scalable+Systems;Code.+Create.+Conquer.)](https://git.io/typing-svg)
 
-### Full-Stack Developer • Problem Solver
+**Full-Stack Developer • Problem Solver**
+
 *Building systems that remain useful after the excitement fades.*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=kevallathiya-74&color=0e75b6&style=flat)](https://github.com/kevallathiya-74)
-[![GitHub followers](https://img.shields.io/github/followers/kevallathiya-74?label=Follow&style=social)](https://github.com/kevallathiya-74)
+[![Profile Views](https://komarev.com/ghpvc/?username=kevallathiya-74&color=0e75b6&style=flat&label=Profile+Views)](https://github.com/kevallathiya-74)
+[![GitHub followers](https://img.shields.io/github/followers/kevallathiya-74?label=Followers&style=social)](https://github.com/kevallathiya-74)
+[![GitHub stars](https://img.shields.io/github/stars/kevallathiya-74?label=Total+Stars&style=social)](https://github.com/kevallathiya-74)
 
 </div>
 
@@ -15,15 +16,15 @@
 
 ## 🧑‍💻 About Me
 
-I focus on building practical, real-world applications with clean logic and scalable design.
-My learning approach is simple: break systems, understand why they break, and rebuild them better.
+I Focus on building practical, real-world applications with clean logic and scalable design. <br>
+My learning approach is simple break systems, understand why they break and rebuild them better.
 
 - 🔋 Full-stack development with a **backend-first** mindset
 - 🔗 Strong interest in **APIs, data flow, and system architecture**
 - ✅ Preference for **clarity and maintainability** over unnecessary complexity
 - ⚡ Arc reactor powered commits | Code. Create. Conquer. 🔥
 - 🧠 Currently deepening **system-level understanding**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/keval-lathiya-box) | [GitHub](https://github.com/kevallathiya-74)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/keval-lathiya-bca) · [GitHub](https://github.com/kevallathiya-74)
 
 ---
 
@@ -52,24 +53,21 @@ My learning approach is simple: break systems, understand why they break, and re
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevallathiya-74&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevallathiya-74&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kevallathiya-74&theme=github-dark-blue&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kevallathiya-74&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
-![Snake animation](https://github.com/kevallathiya-74/kevallathiya-74/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kevallathiya-74/kevallathiya-74/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kevallathiya-74/kevallathiya-74/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  <img alt="GitHub contribution snake animation" src="https://github.com/kevallathiya-74/kevallathiya-74/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+</picture>
 
 </div>
 
@@ -79,12 +77,12 @@ My learning approach is simple: break systems, understand why they break, and re
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🏭 Online Dead Stock Register](https://github.com/kevallathiya-74/Online-Dead-Stock-Register) | Inventory management system to track, analyze & reduce unsold stock in business environments | TypeScript, Node.js |
-| [🏥 AppyCare](https://github.com/kevallathiya-74/AppyCare) | Healthcare platform managing patient workflows & digital care processes | JavaScript, Express |
-| [👁️ Face Detection Attendance](https://github.com/kevallathiya-74/FACE-DETECTION-ATTENDENCE-SYSTEM) | Automated attendance system using real-time face detection | Python, OpenCV |
-| [🏨 Hospital Management System](https://github.com/kevallathiya-74/Hospital_Management_System) | Full-stack hospital management with complete patient & staff workflows | PHP, MySQL |
-| [🤖 AutonomousHacks 2025](https://github.com/kevallathiya-74/AutonomousHacks-2025) | Hackathon project — rapid solution design with system integration | Python |
-| [🛒 Odoo x NMIT Hackathon](https://github.com/kevallathiya-74/Odoo-x-NMIT-Hackathon-2025) | Rapid solution design emphasizing system integration on Odoo | HTML, Odoo |
+| [🏭 Online Dead Stock Register](https://github.com/kevallathiya-74/Online-Dead-Stock-Register) | Inventory system to track, analyze & reduce unsold business stock | TypeScript, Node.js |
+| [🏥 AppyCare](https://github.com/kevallathiya-74/AppyCare) | Healthcare platform for patient workflows & digital care | JavaScript, Express |
+| [👁️ Face Detection Attendance](https://github.com/kevallathiya-74/FACE-DETECTION-ATTENDENCE-SYSTEM) | Real-time automated attendance using face recognition | Python, OpenCV |
+| [🏨 Hospital Management System](https://github.com/kevallathiya-74/Hospital_Management_System) | Full-stack hospital management for patients & staff | PHP, MySQL |
+| [🤖 AutonomousHacks 2025](https://github.com/kevallathiya-74/AutonomousHacks-2025) | Hackathon rapid-solution with system integration | Python |
+| [🛒 Odoo x NMIT Hackathon](https://github.com/kevallathiya-74/Odoo-x-NMIT-Hackathon-2025) | ERP solution design on Odoo platform | React, Odoo |
 
 ---
 
@@ -99,14 +97,11 @@ My learning approach is simple: break systems, understand why they break, and re
 
 ---
 
-## 📈 Activity Overview
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+## 📈 Activity Graph
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kevallathiya-74&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff)
+[![Keval's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kevallathiya-74&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -117,7 +112,7 @@ My learning approach is simple: break systems, understand why they break, and re
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevallathiya-74)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keval-lathiya-box)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keval-lathiya-bca)
 
 </div>
 
@@ -127,6 +122,6 @@ My learning approach is simple: break systems, understand why they break, and re
 
 *"Build systems that remain useful after the excitement fades."*
 
-⭐ If you find my work useful, consider starring the repos!
+⭐ **If my work helps you, a star means the world!**
 
 </div>
