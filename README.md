@@ -1,12 +1,22 @@
 <div align="center">
 
-# ⚡ Keval Lathiya
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=7BD1D2&text=KEVAL%20LATHIYA&fontAlign=51&textBg=false&section=header&reversal=false&fontAlignY=41" />
 
-### 🧠 Backend Architect | AI Systems Engineer | Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Architect;AI+Systems+Engineer;Designing+Scalable+Systems;Engineering+Real+World+Impact" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Designing+Scalable+Systems;Backend+First+Engineering;AI+%2B+Real+World+Impact;Break+%E2%86%92+Understand+%E2%86%92+Rebuild" />
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=header"/>
+<img src="https://img.shields.io/badge/System%20Design-Expert-1f6feb?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Integration-Advanced-1f6feb?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-Scalable%20Architecture-1f6feb?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevallathiya-74&theme=tokyonight" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 </div>
 
@@ -44,8 +54,6 @@ Computer vision & ML pipelines
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevallathiya-74&theme=tokyonight" />
-
 <img src="https://streak-stats.demolab.com?user=kevallathiya-74&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevallathiya-74&theme=tokyonight" />
@@ -57,39 +65,24 @@ Computer vision & ML pipelines
 ---
 
 ## 🐍 Contribution Graph
-<div align="center"> <img src="https://raw.githubusercontent.com/kevallathiya-74/kevallathiya-74/output/github-contribution-grid-snake-dark.svg" /> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/kevallathiya-74/kevallathiya-74/output/github-contribution-grid-snake-dark.svg" width="100%" /> </div>
 
 ---
 
-## 🚀 Featured Systems
+## 🏗️ System Design Mindset
+
 ```text
-🏭 Inventory Intelligence System
-
-Data-driven system to track and optimize unsold business inventory.
-
-🏥 Healthcare Platform (AayuCare)
-
-Multi-role architecture for scalable patient, doctor, and admin workflows.
-
-👁️ AI Attendance System
-
-Real-time face recognition pipeline for automated attendance.
-```
-
----
-
-## 🧪 Engineering Focus
-```text
-→ System Design
-→ Backend Performance Optimization
-→ Scalable API Architecture
-→ AI Integration in Real Systems
+Client → API Gateway → Service Layer → Database
+                ↓
+        AI Processing Layer
+                ↓
+        Response Optimization
 ```
 
 ---
 
 ## 📈 Activity Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevallathiya-74&theme=react-dark&hide_border=true&bg_color=0d1117" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevallathiya-74&theme=react-dark&hide_border=true&bg_color=000000" /> </div>
 
 ---
 
@@ -99,5 +92,5 @@ Real-time face recognition pipeline for automated attendance.
 ---
 
 <div align="center">
-⚡ "Build systems that survive real-world complexity."
+ ⚡ "Build systems that survive real-world complexity."
 </div> 
