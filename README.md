@@ -25,7 +25,7 @@
 ## 🧠 System Thinking
 
 ```text
-I design systems that handle scale, failure, and real-world complexity.
+I design systems that handle scale, failure and real-world complexity.
 
 → API-first architecture
 → Fault-tolerant backend systems
@@ -66,18 +66,6 @@ Computer vision & ML pipelines
 
 ## 🐍 Contribution Graph
 <div align="center"> <img src="https://raw.githubusercontent.com/kevallathiya-74/kevallathiya-74/output/github-contribution-grid-snake-dark.svg" width="100%" /> </div>
-
----
-
-## 🏗️ System Design Mindset
-
-```text
-Client → API Gateway → Service Layer → Database
-                ↓
-        AI Processing Layer
-                ↓
-        Response Optimization
-```
 
 ---
 
